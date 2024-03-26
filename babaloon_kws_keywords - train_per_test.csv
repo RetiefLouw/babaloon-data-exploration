@@ -1,0 +1,62 @@
+ID,Keyword count,Reviewed
+id_10_main_post_test,"{'wil': 7, 'butterfly': 3, 'gelukkig': 1, 'kat': 9, 'geëet': 1}",TRUE
+id_10_main_pre_test,"{'wil': 3, 'muis': 3, 'boom': 3, 'balloon': 3, 'voel': 1, 'honger': 1, 'hond': 2}",TRUE
+id_11_main_post_test,"{'wil': 2, 'kat': 2, 'muis': 3, 'voel': 1, 'babaloon': 5, 'gelukkig': 1, 'honger': 1, 'hond': 8, 'worsies': 2, 'geëet': 2, 'boom': 1}",TRUE
+id_11_main_pre_test,"{'lekker': 1, 'boom': 3, 'seuntjie': 2, 'voel': 1, 'honger': 1, 'kat': 8, 'geëet': 2, 'butterfly': 1, 'wil': 1, 'water': 1}",FALSE
+id_120_main_pre_test,"{'muis': 2, 'voel': 3, 'babaloon': 2, 'worsies': 2, 'honger': 1, 'hond': 1, 'geëet': 1, 'seuntjie': 1}",TRUE
+id_121_main_post_test,"{'voel': 1, 'seer': 2, 'water': 4, 'lekker': 2, 'sien': 4, 'kat': 7, 'boom': 1}",TRUE
+id_122_main_pre_test,"{'butterfly': 1, 'voel': 2, 'lekker': 1, 'kat': 3, 'honger': 1}",TRUE
+id_123_main_post_test,"{'seer': 1, 'wil': 3, 'voel': 1, 'kwaad': 1, 'kat': 6, 'geëet': 1, 'water': 2, 'vissies': 2}",FALSE
+id_123_main_pre_test,"{'wil': 5, 'muis': 2, 'voel': 2, 'lekker': 2, 'balloon': 6, 'boom': 5, 'honger': 1, 'hond': 5, 'worsies': 2, 'sien': 1, 'hardloop': 1}",TRUE
+id_124_main_post_test,"{'wil': 7, 'muis': 5, 'kat': 2, 'seer': 1, 'babaloon': 6, 'gelukkig': 2, 'hond': 7, 'worsies': 2, 'sien': 1, 'boom': 1}",TRUE
+id_124_main_pre_test,"{'wil': 4, 'butterfly': 1, 'seer': 1, 'sien': 4, 'kat': 8, 'voel': 2, 'water': 3}",TRUE
+id_126_main_post_test,"{'sien': 2, 'butterfly': 3, 'kat': 5, 'voel': 3, 'gelukkig': 2, 'honger': 1}",TRUE
+id_126_main_pre_test,"{'wil': 4, 'hond': 5, 'babaloon': 3, 'gelukkig': 2, 'honger': 1, 'sien': 3, 'muis': 3, 'boom': 1, 'worsies': 1}",TRUE
+id_127_main_post_test,"{'muis': 3, 'voel': 3, 'seer': 1, 'boom': 2, 'wil': 2, 'gelukkig': 2, 'honger': 1, 'babaloon': 1, 'worsies': 2, 'hond': 4, 'hardloop': 3, 'sien': 1}",TRUE
+id_127_main_pre_test,"{'butterfly': 2, 'seer': 2, 'voel': 2, 'wil': 3, 'water': 2, 'kat': 5}",TRUE
+id_128_main_pre_test,"{'wil': 4, 'muis': 3, 'seer': 1, 'balloon': 1, 'boom': 3, 'honger': 1, 'hond': 6, 'sien': 3, 'kat': 1, 'worsies': 1}",FALSE
+id_129_main_post_test,"{'muis': 6, 'boom': 6, 'hond': 10, 'voel': 3, 'lekker': 2, 'wil': 3, 'balloon': 4, 'worsies': 2, 'honger': 1, 'seuntjie': 2, 'sien': 1}",FALSE
+id_129_main_pre_test,"{'wil': 5, 'butterfly': 3, 'kat': 10, 'seuntjie': 2, 'voel': 2, 'honger': 2, 'water': 1, 'sien': 1, 'boom': 1}",FALSE
+id_12_main_post_test,"{'muis': 3, 'boom': 6, 'balloon': 5, 'gelukkig': 1, 'hond': 8, 'worsies': 1, 'kwaad': 1, 'geëet': 1, 'honger': 1, 'seuntjie': 8, 'wil': 1, 'hardloop': 2}",TRUE
+id_12_main_pre_test,"{'wil': 5, 'butterfly': 5, 'kat': 6, 'kwaad': 1, 'water': 2, 'geëet': 2, 'seer': 1, 'sien': 1}",FALSE
+id_130_main_post_test,"{'wil': 4, 'butterfly': 1, 'seer': 1, 'water': 1, 'voel': 1, 'kwaad': 1, 'geëet': 1, 'kat': 6, 'sien': 2}",TRUE
+id_130_main_pre_test,"{'muis': 8, 'hond': 10, 'boom': 3, 'seer': 1, 'hardloop': 2, 'water': 1}",TRUE
+id_14_main_pre_test,"{'wil': 8, 'muis': 2, 'voel': 1, 'seer': 1, 'babaloon': 4, 'honger': 1, 'gelukkig': 1, 'hond': 6, 'worsies': 1, 'sien': 2}",FALSE
+id_15_main_pre_test,"{'wil': 2, 'worsies': 1, 'hond': 2}",FALSE
+id_1_main_post_test,"{'wil': 2, 'muis': 2, 'seuntjie': 4, 'balloon': 7, 'hond': 4, 'geëet': 2, 'gelukkig': 2, 'worsies': 3, 'hardloop': 1, 'boom': 1, 'sien': 3}",TRUE
+id_1_main_pre_test,"{'wil': 4, 'kat': 9, 'seer': 1, 'water': 4, 'kwaad': 2, 'seuntjie': 1}",TRUE
+id_28_main_post_test,"{'wil': 2, 'muis': 2, 'seer': 1, 'balloon': 2, 'worsies': 1, 'voel': 2, 'hond': 3}",FALSE
+id_2_main_pre_test,"{'hardloop': 2, 'voel': 2, 'lekker': 3, 'wil': 2, 'honger': 5, 'balloon': 1, 'hond': 2, 'worsies': 2}",TRUE
+id_33_main_post_test,"{'muis': 2, 'voel': 2, 'seer': 1, 'babaloon': 3, 'lekker': 1, 'honger': 1, 'hond': 1}",FALSE
+id_34_main_post_test,"{'wil': 6, 'voel': 1, 'seer': 2, 'boom': 3, 'kat': 8, 'vissies': 8, 'honger': 1, 'sien': 3, 'geëet': 2, 'butterfly': 1, 'seuntjie': 2, 'water': 1}",TRUE
+id_36_main_pre_test,"{'boom': 4, 'voel': 2, 'lekker': 1, 'kat': 6, 'vissies': 2}",TRUE
+id_37_main_post_test,"{'wil': 9, 'butterfly': 4, 'kat': 7, 'voel': 4, 'water': 2, 'seuntjie': 1, 'sien': 1}",FALSE
+id_37_main_pre_test,"{'muis': 5, 'hond': 8, 'seer': 3, 'voel': 7, 'lekker': 7, 'worsies': 4, 'babaloon': 2, 'wil': 2, 'honger': 1, 'water': 1, 'sien': 2}",FALSE
+id_38_main_post_test,"{'hond': 9, 'wil': 5, 'muis': 4, 'seer': 1, 'boom': 3, 'balloon': 10, 'voel': 3, 'seuntjie': 2, 'sien': 1}",FALSE
+id_38_main_pre_test,"{'wil': 6, 'butterfly': 3, 'water': 3, 'katjie': 3, 'honger': 2, 'voel': 2, 'seuntjie': 1, 'lekker': 1}",TRUE
+id_39_main_post_test,"{'wil': 8, 'butterfly': 5, 'voel': 4, 'lekker': 4, 'seer': 1, 'geëet': 4, 'gelukkig': 1, 'water': 3, 'honger': 1, 'sien': 6, 'vissies': 7, 'katjie': 9, 'kat': 1, 'boom': 1}",TRUE
+id_39_main_pre_test,"{'wil': 9, 'kat': 6, 'boom': 5, 'muis': 4, 'voel': 5, 'hond': 12, 'seer': 1, 'babaloon': 4, 'honger': 1, 'hardloop': 1, 'sien': 3, 'geëet': 1}",TRUE
+id_42_main_post_test,"{'wil': 11, 'muis': 6, 'geëet': 2, 'hond': 8, 'voel': 3, 'babaloon': 12, 'seuntjie': 4, 'sien': 2, 'hardloop': 4}",TRUE
+id_42_main_pre_test,"{'butterfly': 3, 'kat': 12, 'boom': 5, 'wil': 3, 'seuntjie': 3, 'water': 1}",FALSE
+id_44_main_pre_test,"{'hond': 4, 'wil': 5, 'babaloon': 6, 'boom': 1}",FALSE
+id_45_main_pre_test,"{'wil': 3, 'kat': 9, 'butterfly': 3, 'voel': 1, 'vissies': 4, 'sien': 2, 'water': 1}",FALSE
+id_5_main_post_test,"{'kat': 14, 'butterfly': 2, 'seer': 1, 'voel': 1, 'kwaad': 1, 'water': 1, 'sien': 3}",TRUE
+id_5_main_pre_test,"{'wil': 4, 'muis': 3, 'seer': 1, 'boom': 4, 'babaloon': 5, 'honger': 1, 'hond': 7, 'sien': 1, 'balloon': 1, 'geëet': 1}",FALSE
+id_6_main_pre_test,"{'muis': 2, 'wil': 3, 'babaloon': 4, 'hond': 6}",FALSE
+id_7_main_post_test,"{'muis': 5, 'boom': 5, 'gelukkig': 1, 'honger': 1, 'hond': 8, 'worsies': 3, 'geëet': 1, 'sien': 1, 'kat': 1, 'seuntjie': 1}",FALSE
+id_7_main_pre_test,"{'voel': 1, 'kat': 5, 'geëet': 1, 'boom': 1, 'sien': 1, 'seuntjie': 1}",FALSE
+id_80_main_post_test,"{'wil': 5, 'muis': 6, 'kwaad': 1, 'babaloon': 6, 'gelukkig': 2, 'honger': 1, 'hond': 5, 'worsies': 4, 'boom': 1, 'seuntjie': 1, 'sien': 1, 'lekker': 1}",TRUE
+id_80_main_pre_test,"{'wil': 6, 'butterfly': 4, 'kat': 1, 'gelukkig': 5, 'kwaad': 3, 'voel': 1, 'water': 3, 'katjie': 8, 'sien': 1, 'seuntjie': 2, 'boom': 1, 'seer': 1}",TRUE
+id_81_main_post_test,"{'wil': 4, 'kat': 2, 'voel': 3, 'seer': 2, 'gelukkig': 2, 'katjie': 5, 'vissies': 3, 'water': 2, 'sien': 2}",TRUE
+id_81_main_pre_test,"{'wil': 8, 'butterfly': 3, 'sien': 2, 'kat': 2, 'seuntjie': 1, 'katjie': 4, 'hardloop': 1, 'water': 6, 'vissies': 2, 'kwaad': 1}",TRUE
+id_87_main_post_test,"{'kat': 8, 'wil': 6, 'butterfly': 8, 'lekker': 3, 'geëet': 2, 'water': 10, 'seer': 1, 'voel': 1}",TRUE
+id_87_main_pre_test,"{'voel': 2, 'wil': 3, 'babaloon': 1, 'honger': 1, 'hond': 4, 'muis': 2}",FALSE
+id_8_main_post_test,"{'wil': 2, 'kwaad': 3, 'kat': 6, 'sien': 4, 'butterfly': 2, 'hond': 1, 'water': 2}",FALSE
+id_8_main_pre_test,"{'wil': 1, 'muis': 2, 'voel': 3, 'lekker': 2, 'babaloon': 3, 'honger': 1, 'kwaad': 1, 'worsies': 1, 'hond': 3, 'boom': 1, 'sien': 2}",TRUE
+id_93_main_post_test,"{'wil': 3, 'kat': 9, 'butterfly': 3, 'seer': 2, 'water': 3, 'honger': 1, 'kwaad': 1, 'geëet': 2}",FALSE
+id_93_main_pre_test,"{'muis': 4, 'voel': 2, 'wil': 1, 'babaloon': 4, 'honger': 1, 'hond': 11, 'worsies': 6}",FALSE
+id_94_main_post_test,"{'wil': 8, 'muis': 6, 'geëet': 3, 'balloon': 7, 'hond': 8, 'gelukkig': 2, 'honger': 3, 'hardloop': 1, 'seuntjie': 1, 'boom': 3, 'sien': 1}",TRUE
+id_94_main_pre_test,"{'kat': 11, 'wil': 4, 'butterfly': 3, 'voel': 3, 'seer': 3, 'honger': 1, 'kwaad': 1, 'boom': 2, 'water': 1}",TRUE
+id_95_main_post_test,"{'wil': 4, 'kat': 2, 'boom': 3, 'hond': 9, 'kwaad': 1, 'babaloon': 6, 'gelukkig': 2, 'honger': 1, 'worsies': 2, 'geëet': 2, 'muis': 3}",FALSE
+id_9_main_post_test,"{'wil': 2, 'butterfly': 3, 'seer': 2, 'gelukkig': 1, 'kat': 6, 'honger': 1, 'seuntjie': 1, 'water': 1}",FALSE
+id_9_main_pre_test,"{'hond': 4, 'wil': 1, 'muis': 2, 'boom': 3, 'babaloon': 5, 'gelukkig': 1, 'honger': 1, 'seuntjie': 1}",FALSE
